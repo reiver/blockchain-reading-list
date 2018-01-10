@@ -30,6 +30,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [Cryptography](#cryptography)
+* [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
 
@@ -65,6 +66,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
+
+
+## Handicap Principle
+
+* [The Handicap Principle: A Missing Piece of Darwin's Puzzle](http://www.goodreads.com/book/show/885547.The_Handicap_Principle),
+  by Amotz Zahavi, Avishag Zahavi
 
 
 ## Hashcash
