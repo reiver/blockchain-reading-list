@@ -33,6 +33,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
+* [Money](#money)
 
 
 ## BitCoin
@@ -84,3 +85,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [How to Time-Stamp a Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32),
   by Stuart Haber, W. Scott Stornetta
+
+
+## Money
+
+* [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
+  by Nick Szabo
