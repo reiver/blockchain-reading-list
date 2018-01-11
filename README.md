@@ -143,7 +143,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 ## Ethereum
 
-* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper),
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 
 ## Handicap Principle
