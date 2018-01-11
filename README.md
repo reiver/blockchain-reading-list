@@ -39,6 +39,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Hash Lists](#hash-lists)
 * [Identity](#identity)
 * [Money](#money)
+* [Peer-to-Peer Networks](peer-to-peer-networks)
 * [Smart Contracts](#smart-contracts)
 
 
@@ -130,6 +131,12 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
+
+
+## Peer-to-Peer Networks
+
+* [Understanding Churn in Peer-to-Peer Networks](http://www.barsoom.org/papers/imc-2006-churn.pdf),
+  by Daniel Stutzbach, Reza Rejaie
 
 
 ## Smart Contracts
