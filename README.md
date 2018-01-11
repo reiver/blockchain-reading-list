@@ -55,6 +55,9 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Annotated: "Bitcoin: A Peer-to-Peer Electronic Cash System"](https://genius.com/2698706),
   by Satoshi Nakamoto, Balaji Srinivasan, Et al.
 
+* [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
+  by Andreas M. Antonopoulos
+
 
 ## Bit Gold
 
