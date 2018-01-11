@@ -152,6 +152,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Ethereum
 
+* [Ethereum in 25 Minutes](https://www.youtube.com/watch?v=66SaEDzlmP4&t=22s),
+  by Vitalik Buterin
+
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 
