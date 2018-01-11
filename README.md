@@ -39,7 +39,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Hash Lists](#hash-lists)
 * [Identity](#identity)
 * [Money](#money)
-* [Peer-to-Peer Networks](peer-to-peer-networks)
+* [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Smart Contracts](#smart-contracts)
 
 
