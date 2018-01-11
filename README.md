@@ -36,6 +36,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
+* [Ethereum](#ethereum)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash Lists](#hash-lists)
@@ -138,6 +139,11 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf),
   by Petar Maymounkov, David Mazières
+
+
+## Ethereum
+
+* [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper),
 
 
 ## Handicap Principle
