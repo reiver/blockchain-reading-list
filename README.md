@@ -89,8 +89,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 ## Distributed Computing
 
-* [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html),
-  by _"unknown"_
+* [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 
 * [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf),
   by Seth Gilbert, Nancy A. Lynch
