@@ -105,6 +105,9 @@ But also includes some topics that the author of this document feels that, while
 * [Understanding Windows CardSpace: An Introduction to the Concepts and Challenges of Digital Identities ](https://www.goodreads.com/book/show/22380161-understanding-windows-cardspace),
   by Vittorio Bertocci, Garrett Serack, Caleb Baker
 
+* [7 Laws of Identity](https://web.archive.org/web/20090824224507/https://www.identityblog.com/?p=1065)
+  by Kim Camerons,
+
 * [Getting Started with OAuth 2.0](https://www.goodreads.com/book/show/13228633-getting-started-with-oauth-2-0),
   by Ryan Boyd
 
