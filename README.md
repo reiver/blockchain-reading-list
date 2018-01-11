@@ -36,7 +36,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Distributed Hash Tables](#distributed-hash-tables)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
-* [Hash List](#hash-list)
+* [Hash Lists](#hash-lists)
 * [Identity](#identity)
 * [Money](#money)
 * [Smart Contract](#smart-contract)
@@ -93,7 +93,7 @@ will help provide you with a deep(er) technical background that can be useful wh
   by Adam Back
 
 
-## Hash List
+## Hash Lists
 
 * [How to Time-Stamp a Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32),
   by Stuart Haber, W. Scott Stornetta
