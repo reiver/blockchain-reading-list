@@ -25,7 +25,8 @@ Regardless, this document focuses on a more traditional definite of _"blockchain
 
 This document is targeted at technical people, who are looking to gain a deep understand of the concepts behind blockchain based technologies.
 
-But also includes some topics that the author of this document feels that, while not strictly about blockchains, will help provide you with a deep(er) technical background.
+But also includes some topics that the author of this document feels that, while not strictly about blockchains,
+will help provide you with a deep(er) technical background that can be useful when working with blockchain technologies.
 
 
 ## Topics
