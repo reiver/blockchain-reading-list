@@ -34,6 +34,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
 * [Money](#money)
+* [Smart Contract][#smart-contract]
 
 
 ## BitCoin
@@ -91,3 +92,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
+
+
+## Smart Contract
+
+* [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
+  by Nick Szabo
+
