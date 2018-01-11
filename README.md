@@ -32,6 +32,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 ## Topics
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
+* [Consensus](#consensus)
 * [Cryptography](#cryptography)
 * [Distributed Hash Tables](#distributed-hash-tables)
 * [Handicap Principle](#handicap-principle)
@@ -40,6 +41,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Identity](#identity)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
+* [Raft](#raft)
 * [Smart Contracts](#smart-contracts)
 
 
@@ -53,6 +55,11 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Bit gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html),
   by Nick Szabo
+
+
+## Consensus
+
+* See also: [BitCoin](#bitcoin), [Raft](#raft)
 
 
 ## Cryptography
@@ -139,6 +146,18 @@ will help provide you with a deep(er) technical background that can be useful wh
   by Daniel Stutzbach, Reza Rejaie
 
 * See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
+
+
+## Raft
+
+* [The Raft Consensus Algorithm](https://raft.github.io/),
+  by Diego Ongaro, Et al.
+
+* [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/),
+  by Ben Johnson
+
+* [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf),
+  by Diego Ongaro, John Ousterhout
 
 
 ## Smart Contracts
