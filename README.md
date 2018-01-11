@@ -34,7 +34,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
 * [Money](#money)
-* [Smart Contract][#smart-contract]
+* [Smart Contract](#smart-contract)
 
 
 ## BitCoin
