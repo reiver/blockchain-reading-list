@@ -87,7 +87,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 ## Distributed Computing
 
 * [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html),
-  by _<unknown>_
+  by _"unknown"_
 
 * [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf),
   by Seth Gilbert, Nancy A. Lynch
@@ -103,6 +103,21 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Immutability Changes Everything (paper)](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf),
   by Pat Helland
+
+* [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf),
+  by Jay Kreps, Neha Narkhede, Jun Rao
+
+* [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf),
+  by Ion Stoica, Robert Morris, David Karger, M. Frans Kaashoek, Hari Balakrishnan
+
+* [Dynamo: Amazon’s Highly Available Key-value Store ](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf),
+  by Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall, Werner Vogels
+
+* [MapReduce: Simplified Data Processing on Large Clusters](https://research.google.com/archive/mapreduce.html),
+  by Jeffrey Dean, Sanjay Ghemawat
+
+* [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html),
+  by Mike Burrows
 
 * See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
