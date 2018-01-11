@@ -33,6 +33,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [Cryptography](#cryptography)
+* [Distributed Hash Table](#distributed-hash-table)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
@@ -72,6 +73,12 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
+
+
+## Distributed Hash Table
+
+* [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf),
+  by Petar Maymounkov, David Mazières
 
 
 ## Handicap Principle
