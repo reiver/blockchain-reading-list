@@ -32,6 +32,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 ## Topics
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
+* [B-Money](#b-money)
 * [Consensus](#consensus)
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
@@ -64,6 +65,12 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Bit gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html),
   by Nick Szabo
+
+
+## B-Money
+
+* [b-money, an anonymous, distributed electronic cash system](http://weidai.com/bmoney.txt),
+  by Wei Dai
 
 
 ## Consensus
