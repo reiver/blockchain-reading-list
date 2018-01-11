@@ -44,6 +44,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Raft](#raft)
 * [Smart Contracts](#smart-contracts)
+* [Trust Networks](#trust-networks)
 
 
 ## BitCoin
@@ -211,4 +212,16 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
   by Nick Szabo
+
+
+## Trust Networks
+
+* [Advogato's Trust Metric](https://web.archive.org/web/20121025175345/http://www.advogato.org:80/trust-metric.html),
+  by Raph Levien
+
+* [Attack Resistant Trust Metrics](http://www.levien.com/thesis/compact.pdf),
+  by Raph Levien
+
+* [Advogato Has Failed](https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html),
+  by Bryan Taylor
 
