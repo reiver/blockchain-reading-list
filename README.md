@@ -33,6 +33,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash List](#hash-list)
+* [Identity](#identity)
 * [Money](#money)
 * [Smart Contract](#smart-contract)
 
@@ -86,6 +87,15 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [How to Time-Stamp a Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32),
   by Stuart Haber, W. Scott Stornetta
+
+
+## Identity
+
+* [Identity Crisis: How Identification Is Overused and Misunderstood](https://www.goodreads.com/book/show/171237.Identity_Crisis),
+  by Jim Harper
+
+* [Secrets and Lies: Digital Security in a Networked World](https://www.goodreads.com/book/show/304482.Secrets_and_Lies),
+  by Bruce Schneier
 
 
 ## Money
