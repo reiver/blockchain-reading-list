@@ -119,6 +119,12 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://research.google.com/archive/chubby.html),
   by Mike Burrows
 
+* [So, you want to trace your distributed system? Key design insights from years of practical experience](http://www.pdl.cmu.edu/PDL-FTP/SelfStar/CMU-PDL-14-102.pdf)
+  by Raja R. Sambasivan, Rodrigo Fonseca, Ilari Shafer, Gregory R. Ganger
+
+* [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html),
+  by Benjamin H. Sigelman, Luiz André Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag
+
 * See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
 
