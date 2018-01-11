@@ -51,6 +51,9 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf),
   by Satoshi Nakamoto
 
+* [Annotated: "Bitcoin: A Peer-to-Peer Electronic Cash System"](https://genius.com/2698706),
+  by Satoshi Nakamoto, Balaji Srinivasan, Et al.
+
 
 ## Bit Gold
 
