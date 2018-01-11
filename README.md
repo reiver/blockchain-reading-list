@@ -39,7 +39,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Hash Lists](#hash-lists)
 * [Identity](#identity)
 * [Money](#money)
-* [Smart Contract](#smart-contract)
+* [Smart Contracts](#smart-contracts)
 
 
 ## BitCoin
@@ -132,7 +132,7 @@ will help provide you with a deep(er) technical background that can be useful wh
   by Nick Szabo
 
 
-## Smart Contract
+## Smart Contracts
 
 * [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
   by Nick Szabo
