@@ -89,6 +89,21 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html),
   by _<unknown>_
 
+* [Perspectives on the CAP Theorem](http://groups.csail.mit.edu/tds/papers/Gilbert/Brewer2.pdf),
+  by Seth Gilbert, Nancy A. Lynch
+
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying),
+  by Jay Kreps
+
+* [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/),
+  by Jeff Hodges
+
+* [Immutability Changes Everything (video)](https://vimeo.com/52831373),
+  by Pat Helland
+
+* [Immutability Changes Everything (paper)](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf),
+  by Pat Helland
+
 * See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
 
