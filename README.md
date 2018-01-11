@@ -203,6 +203,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
 
+* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [Ethereum](#ethereum)
+
 
 ## Peer-to-Peer Networks
 
