@@ -225,3 +225,5 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Advogato Has Failed](https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html),
   by Bryan Taylor
 
+* [Eigenmorality](https://www.scottaaronson.com/blog/?p=1820),
+  by Scott Aaronson
