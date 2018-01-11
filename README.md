@@ -97,6 +97,21 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Secrets and Lies: Digital Security in a Networked World](https://www.goodreads.com/book/show/304482.Secrets_and_Lies),
   by Bruce Schneier
 
+* [Secure Electronic Commerce: Building the Infrastructure for Digital Signatures and Encryption](https://www.goodreads.com/book/show/1174424.Secure_Electronic_Commerce),
+  by Warwick Ford, Michael S. Baum
+
+* [Understanding Windows CardSpace: An Introduction to the Concepts and Challenges of Digital Identities ](https://www.goodreads.com/book/show/22380161-understanding-windows-cardspace),
+  by Vittorio Bertocci, Garrett Serack, Caleb Baker
+
+* [Getting Started with OAuth 2.0](https://www.goodreads.com/book/show/13228633-getting-started-with-oauth-2-0),
+  by Ryan Boyd
+
+* [Digital Identity](https://www.goodreads.com/book/show/155374.Digital_Identity),
+  by Phillip J. Windley
+
+* [Identity Management: A Primer](https://www.goodreads.com/book/show/7273193-identity-management),
+  by Graham Williamson, David Yip, Ilan Sharoni, Kent Spaulding
+
 
 ## Money
 
