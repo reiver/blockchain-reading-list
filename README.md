@@ -72,6 +72,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [b-money, an anonymous, distributed electronic cash system](http://weidai.com/bmoney.txt),
   by Wei Dai
 
+* [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
+
 
 ## Consensus
 
