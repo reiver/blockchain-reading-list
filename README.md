@@ -138,6 +138,8 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Understanding Churn in Peer-to-Peer Networks](http://www.barsoom.org/papers/imc-2006-churn.pdf),
   by Daniel Stutzbach, Reza Rejaie
 
+* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
+
 
 ## Smart Contracts
 
