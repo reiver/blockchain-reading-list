@@ -34,6 +34,7 @@ will help provide you with a deep(er) technical background that can be useful wh
 * [Bit Gold](#bit-gold)
 * [Consensus](#consensus)
 * [Cryptography](#cryptography)
+* [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
@@ -81,6 +82,14 @@ will help provide you with a deep(er) technical background that can be useful wh
 
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
+
+
+## Distributed Computing
+
+* [Introduction to Distributed System Design](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html),
+  by _<unknown>_
+
+* See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
 
 ## Distributed Hash Tables
