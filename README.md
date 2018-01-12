@@ -236,6 +236,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
   by Nick Szabo
 
+* See also: [B-Money](#b-money)
+
 
 ## Trust Networks
 
