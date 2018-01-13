@@ -158,6 +158,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [eCash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
 
+* [An introduction to ecash](https://web.archive.org/web/19971009044558/http://digicash.com/publish/ecash_intro/ecash_intro.html)
+
 
 ## Ethereum
 
