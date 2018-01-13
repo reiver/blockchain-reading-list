@@ -156,7 +156,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
   by David Chaum
 
-* [Ecash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash),
+* [Ecash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
 
 
 ## Ethereum
