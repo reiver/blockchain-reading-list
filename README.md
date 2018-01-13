@@ -37,6 +37,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
+* [Ecash](#ecash)
 * [Ethereum](#ethereum)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
@@ -148,6 +149,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf),
   by Petar Maymounkov, David Mazières
+
+
+## Ecash
+
+* [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
+  by David Chaum
+
+* [Ecash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash),
 
 
 ## Ethereum
