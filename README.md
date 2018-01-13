@@ -37,7 +37,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
-* [Ecash](#ecash)
+* [eCash](#ecash)
 * [Ethereum](#ethereum)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
@@ -151,12 +151,12 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Petar Maymounkov, David Mazières
 
 
-## Ecash
+## eCash
 
 * [Blind signatures for untraceable payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF),
   by David Chaum
 
-* [Ecash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
+* [eCash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
 
 
 ## Ethereum
@@ -217,7 +217,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
 
-* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [Ecash](#ecash), [Ethereum](#ethereum)
+* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum)
 
 
 ## Peer-to-Peer Networks
