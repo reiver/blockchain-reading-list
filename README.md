@@ -45,7 +45,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Identity](#identity)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
-* [Privacy]
+* [Privacy](#privacy)
 * [Raft](#raft)
 * [Smart Contracts](#smart-contracts)
 * [Trust Networks](#trust-networks)
