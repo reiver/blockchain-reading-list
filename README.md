@@ -45,6 +45,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Identity](#identity)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
+* [Privacy]
 * [Raft](#raft)
 * [Smart Contracts](#smart-contracts)
 * [Trust Networks](#trust-networks)
@@ -228,6 +229,11 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Daniel Stutzbach, Reza Rejaie
 
 * See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
+
+
+## Privacy
+
+* [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
 
 
 ## Raft
