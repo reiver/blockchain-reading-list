@@ -235,6 +235,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
 
+* See also: [Cryptography](#cryptography)
+
 
 ## Raft
 
