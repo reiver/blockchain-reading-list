@@ -169,6 +169,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Ethereum White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
+* [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper),
+  by Gav Would, et al
+
+* [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
+  by Micah Dameron
+
 
 ## Handicap Principle
 
