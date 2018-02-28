@@ -62,6 +62,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Please, not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/),
   by Jason Collins
 
+* See also: [Handicap Principle](#handicap-principle)
+
 
 ## BitCoin
 
