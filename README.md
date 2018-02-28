@@ -49,6 +49,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Raft](#raft)
 * [Rai](#rai)
 * [Smart Contracts](#smart-contracts)
+* [Sybil Attack](#sybil-attack)
 * [Trust Networks](#trust-networks)
 
 
@@ -274,6 +275,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [B-Money](#b-money)
 
 
+## Sybil Attack
+
+* [The Sybil Attack](http://research.microsoft.com/pubs/74220/IPTPS2002.pdf),
+  by John R. Douceur
+
+
 ## Trust Networks
 
 * [Advogato's Trust Metric](https://web.archive.org/web/20121025175345/http://www.advogato.org:80/trust-metric.html),
@@ -287,3 +294,5 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Eigenmorality](https://www.scottaaronson.com/blog/?p=1820),
   by Scott Aaronson
+
+* See also: [Sybil Attack](#sybil-attack)
