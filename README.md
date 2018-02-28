@@ -49,6 +49,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Privacy](#privacy)
 * [Proof-of-Stake](#proof-of-stake)
 * [Proof-of-Work](#proof-of-work)
+* [Randomness](#randomness)
 * [Raft](#raft)
 * [Rai](#rai)
 * [Smart Contracts](#smart-contracts)
@@ -122,7 +123,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [$5 wrench attack](https://xkcd.com/538/),
   by Randall Munroe
 
-* See also: [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+* See also: [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
 ## Distributed Computing
@@ -275,6 +276,18 @@ This document is targeted at technical people, who are looking to gain a deep un
 ## Proof-of-Work
 
 * See also: [Hashcash](#hashcash)
+
+
+# Randomness
+
+* [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
+  by Timothy Masters
+
+* [TIFU by using Math.random()](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d),
+  by Mike Malone
+
+* [The Lava Lamps That Help Keep The Internet Secure](https://youtu.be/1cUUfMeOijg),
+  by Tom Scott
 
 
 ## Raft
