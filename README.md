@@ -310,5 +310,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Zero-Knowledge Proof Protocol
 
+* [Zero Knowledge Proofs (Computerphile)](https://youtu.be/HUs1bH85X9I),
+  by Alberto Sonnino
+
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
