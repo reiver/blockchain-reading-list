@@ -275,7 +275,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Proof-of-Work
 
-* See also: [Hashcash](#hashcash)
+* See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash)
 
 
 # Randomness
