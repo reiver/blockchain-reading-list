@@ -30,6 +30,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Topics
+* [Behavioral Science](behavioral-science)
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [B-Money](#b-money)
@@ -51,6 +52,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Smart Contracts](#smart-contracts)
 * [Sybil Attack](#sybil-attack)
 * [Trust Networks](#trust-networks)
+
+
+## Behavioral Science
+
+* [Please, not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/),
+  by Jason Collins
 
 
 ## BitCoin
