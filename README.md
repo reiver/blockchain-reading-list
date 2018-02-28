@@ -52,6 +52,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Smart Contracts](#smart-contracts)
 * [Sybil Attack](#sybil-attack)
 * [Trust Networks](#trust-networks)
+* [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
 ## Behavioral Science
@@ -113,6 +114,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [$5 wrench attack](https://xkcd.com/538/),
   by Randall Munroe
+
+* See also: [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
 ## Distributed Computing
@@ -253,7 +256,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
 
-* See also: [Cryptography](#cryptography)
+* See also: [Cryptography](#cryptography), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
 ## Raft
@@ -303,3 +306,9 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Scott Aaronson
 
 * See also: [Sybil Attack](#sybil-attack)
+
+
+## Zero-Knowledge Proof Protocol
+
+* [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
+  by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
