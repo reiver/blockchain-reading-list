@@ -47,6 +47,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
 * [Raft](#raft)
+* [Rai](#rai)
 * [Smart Contracts](#smart-contracts)
 * [Trust Networks](#trust-networks)
 
@@ -226,7 +227,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
 
-* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum)
+* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
 
 
 ## Peer-to-Peer Networks
@@ -254,6 +255,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf),
   by Diego Ongaro, John Ousterhout
+
+
+## Rai
+
+* [Island Money](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx),
+  Michael F. Bryan
 
 
 ## Smart Contracts
