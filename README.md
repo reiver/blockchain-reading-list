@@ -278,7 +278,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash)
 
 
-# Randomness
+## Randomness
 
 * [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
   by Timothy Masters
