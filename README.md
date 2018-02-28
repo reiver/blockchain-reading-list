@@ -314,7 +314,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Alberto Sonnino
 
 * [Zero Knowledge Proofs](https://youtu.be/0Sy6nb72gCk),
-  by Zero Knowledge Proofs
+  by Scott Twombly
 
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
