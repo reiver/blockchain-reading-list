@@ -47,6 +47,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
+* [Proof-of-Stake](#proof-of-stake)
 * [Raft](#raft)
 * [Rai](#rai)
 * [Smart Contracts](#smart-contracts)
@@ -257,6 +258,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [An Overview of Blockchain Privacy Mechanisms](https://steemit.com/zcoin/@zcoinofficial/an-overview-of-blockchain-privacy-mechanisms-and-how-zerocoin-in-zcoin-usdxzc-not-zcash-stacks-up),
 
 * See also: [Cryptography](#cryptography), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+
+
+## Proof-of-Stake
+
+* [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
+  by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
 
 
 ## Raft
