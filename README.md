@@ -96,6 +96,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Cryptography
 
+* [Everything you need to know about cryptography in 1 hour](https://youtu.be/jzY3m5Kv7Y8),
+  by Colin Percival
+
 * [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf),
   by Claude Elwood Shannon
 
