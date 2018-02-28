@@ -43,6 +43,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
 * [Hash Lists](#hash-lists)
+* [History (Cypherpunk)](#history-cypherpunk)
 * [Identity](#identity)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
@@ -215,6 +216,24 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [How to Time-Stamp a Digital Document](https://link.springer.com/chapter/10.1007/3-540-38424-3_32),
   by Stuart Haber, W. Scott Stornetta
+
+
+## History (Cypherpunk)
+
+* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html),
+  by Eric Hughes
+
+* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html),
+  by Timothy C. May
+
+* [Cyphernomicon](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html),
+  by Timothy C. May
+
+* [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
+  by Andy Greenberg
+
+* [Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age](https://www.goodreads.com/book/show/984428.Crypto),
+  by Steven Levy
 
 
 ## Identity
