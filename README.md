@@ -48,6 +48,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
 * [Proof-of-Stake](#proof-of-stake)
+* [Proof-of-Work](#proof-of-work)
 * [Raft](#raft)
 * [Rai](#rai)
 * [Smart Contracts](#smart-contracts)
@@ -264,6 +265,11 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
   by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
+
+
+## Proof-of-Work
+
+* See also: [Hashcash](#hashcash)
 
 
 ## Raft
