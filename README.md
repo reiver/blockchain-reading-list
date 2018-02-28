@@ -103,6 +103,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
 
+* [$5 wrench attack](https://xkcd.com/538/),
+  by Randall Munroe
+
 
 ## Distributed Computing
 
