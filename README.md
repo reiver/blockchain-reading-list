@@ -232,7 +232,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [This Machine Kills Secrets](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets),
   by Andy Greenberg
 
-* [Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age](https://www.goodreads.com/book/show/984428.Crypto),
+* [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
   by Steven Levy
 
 
