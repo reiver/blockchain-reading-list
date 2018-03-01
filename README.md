@@ -107,6 +107,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
+* [Trusty URIs: Verifiable, Immutable, and Permanent Digital Artifacts for Linked Data](https://arxiv.org/abs/1401.5775),
+  by Tobias Kuhn, Michel Dumontier
+
 * [BIP 122](https://github.com/bitcoin/bips/blob/master/bip-0122.mediawiki)
 
 * [HTTP Extensions for a Content-Addressable Web](http://lists.w3.org/Archives/Public/www-talk/2001NovDec/0090.html)
