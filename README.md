@@ -35,6 +35,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Bit Gold](#bit-gold)
 * [B-Money](#b-money)
 * [Consensus](#consensus)
+* [Content Addressing](#content-addressing)
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
@@ -98,6 +99,11 @@ This document is targeted at technical people, who are looking to gain a deep un
 ## Consensus
 
 * See also: [BitCoin](#bitcoin), [Raft](#raft)
+
+
+## Content Addressing
+
+* See also: [Distributed Hash Tables](#distributed-hash-tables), [Magnet URI](#magnet-uri)
 
 
 ## Cryptography
