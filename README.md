@@ -109,6 +109,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [BIP 122](https://github.com/bitcoin/bips/blob/master/bip-0122.mediawiki)
 
+* [HTTP Extensions for a Content-Addressable Web](http://lists.w3.org/Archives/Public/www-talk/2001NovDec/0090.html)
+
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
