@@ -44,6 +44,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Hashcash](#hashcash)
 * [Hash Lists](#hash-lists)
 * [History (Cypherpunk)](#history-cypherpunk)
+* [History (Open Source)](#history-open-source)
 * [Identity](#identity)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
@@ -234,6 +235,18 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Crypto](https://www.goodreads.com/book/show/984428.Crypto),
   by Steven Levy
+
+
+## History (Open Source)
+
+* [The Cathedral and the Bazaar ](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/),
+  by Eric Steven Raymond
+
+* [Homesteading the Noosphere](http://www.catb.org/esr/writings/homesteading/homesteading/),
+  by Eric Steven Raymond
+
+* [The Wikipedia Revolution](https://www.goodreads.com/book/show/4606921-the-wikipedia-revolution),
+  by Andrew Lih
 
 
 ## Identity
