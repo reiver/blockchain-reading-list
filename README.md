@@ -30,7 +30,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Topics
-* [Behavioral Science](behavioral-science)
+* [Behavioral Science](#behavioral-science)
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [B-Money](#b-money)
