@@ -58,6 +58,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Randomness](#randomness)
 * [Smart Contracts](#smart-contracts)
 * [Sybil Attack](#sybil-attack)
+* [Tamper Detection](#tamper-detection)
 * [Trust Networks](#trust-networks)
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
@@ -367,6 +368,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [The Sybil Attack](http://research.microsoft.com/pubs/74220/IPTPS2002.pdf),
   by John R. Douceur
+
+
+## Tamper Detection
+
+* [The Playdough Protocols](http://nakamotoinstitute.org/the-playdough-protocols/),
+  by Nick Szabo
+
+* See also: [Hash Lists](#hash-lists)
 
 
 ## Trust Networks
