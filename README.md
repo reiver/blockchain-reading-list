@@ -104,6 +104,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Everything you need to know about cryptography in 1 hour](https://youtu.be/jzY3m5Kv7Y8),
   by Colin Percival
 
+* [$5 wrench attack](https://xkcd.com/538/),
+  by Randall Munroe
+
 * [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf),
   by Claude Elwood Shannon
 
@@ -121,9 +124,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
-
-* [$5 wrench attack](https://xkcd.com/538/),
-  by Randall Munroe
 
 * See also: [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
