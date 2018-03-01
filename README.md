@@ -55,6 +55,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Raft](#raft)
 * [Rai](#rai)
 * [Randomness](#randomness)
+* [Selfish Mining Attack](#selfish-mining-attack)
 * [Smart Contracts](#smart-contracts)
 * [Sybil Attack](#sybil-attack)
 * [Tamper Detection](#tamper-detection)
@@ -337,7 +338,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Proof-of-Work
 
-* See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash)
+* See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash), [Selfish Mining Attack](#selfish-mining-attack)
 
 
 ## Raft
@@ -371,6 +372,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [The Lava Lamps That Help Keep The Internet Secure](https://youtu.be/1cUUfMeOijg),
   by Tom Scott
+
+
+## Selfish Mining Attack
+
+* [Majority is not Enough: Bitcoin Mining is Vulnerable](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf),
+  by Ittay Eyal and Emin G ̈un Sirer
+
+* See also: [Proof-of-Work](#proof-of-work)
 
 
 ## Smart Contracts
