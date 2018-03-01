@@ -355,7 +355,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 ## Rai
 
 * [Island Money](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx),
-  Michael F. Bryan
+  by Michael F. Bryan
 
 * [The Rai Stones are huge stone wheels used as currency on the island of Yap](http://www.thevintagenews.com/2017/10/25/the-rai-stones-are-huge-stone-wheels-used-as-currency-on-the-island-of-yap/),
   by Boban Docevski
