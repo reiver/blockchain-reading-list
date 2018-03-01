@@ -51,9 +51,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Privacy](#privacy)
 * [Proof-of-Stake](#proof-of-stake)
 * [Proof-of-Work](#proof-of-work)
-* [Randomness](#randomness)
 * [Raft](#raft)
 * [Rai](#rai)
+* [Randomness](#randomness)
 * [Smart Contracts](#smart-contracts)
 * [Sybil Attack](#sybil-attack)
 * [Trust Networks](#trust-networks)
@@ -310,18 +310,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Handicap Principle](#handicap-principle), [Hashcash](#hashcash)
 
 
-## Randomness
-
-* [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
-  by Timothy Masters
-
-* [TIFU by using Math.random()](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d),
-  by Mike Malone
-
-* [The Lava Lamps That Help Keep The Internet Secure](https://youtu.be/1cUUfMeOijg),
-  by Tom Scott
-
-
 ## Raft
 
 * [The Raft Consensus Algorithm](https://raft.github.io/),
@@ -338,6 +326,18 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Island Money](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2004-economic-commentaries/ec-20040201-island-money.aspx),
   Michael F. Bryan
+
+
+## Randomness
+
+* [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
+  by Timothy Masters
+
+* [TIFU by using Math.random()](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d),
+  by Mike Malone
+
+* [The Lava Lamps That Help Keep The Internet Secure](https://youtu.be/1cUUfMeOijg),
+  by Tom Scott
 
 
 ## Smart Contracts
