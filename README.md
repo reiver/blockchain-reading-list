@@ -46,6 +46,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [History (Cypherpunk)](#history-cypherpunk)
 * [History (Open Source)](#history-open-source)
 * [Identity](#identity)
+* [Magnet URI](#magnet-uri)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
@@ -277,6 +278,11 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Identity Management: A Primer](https://www.goodreads.com/book/show/7273193-identity-management),
   by Graham Williamson, David Yip, Ilan Sharoni, Kent Spaulding
+
+
+# Magnet URI
+
+* [Magnet URI Project](http://magnet-uri.sourceforge.net/)
 
 
 ## Money
