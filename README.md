@@ -103,7 +103,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Content Addressing
 
-* [Magnet URI Project](http://magnet-uri.sourceforge.net/)
+* [Magnet URI Project](http://magnet-uri.sourceforge.net/) <sup>[archive](https://web.archive.org/web/20171215133440/http://magnet-uri.sourceforge.net/)</sup>
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
