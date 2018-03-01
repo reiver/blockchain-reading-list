@@ -104,6 +104,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Content Addressing
 
+* [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
+
 * See also: [Distributed Hash Tables](#distributed-hash-tables), [Magnet URI](#magnet-uri)
 
 
