@@ -81,6 +81,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
   by Andreas M. Antonopoulos
 
+* [Why Is It Taking 20 Minutes to Mine This Bitcoin Block?](http://r6.ca/blog/20180225T160548Z.html),
+  by Russell O’Connor
+
 
 ## Bit Gold
 
