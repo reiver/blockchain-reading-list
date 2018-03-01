@@ -168,6 +168,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google.com/pubs/pub36356.html),
   by Benjamin H. Sigelman, Luiz André Barroso, Mike Burrows, Pat Stephenson, Manoj Plakal, Donald Beaver, Saul Jaspan, Chandan Shanbhag
 
+* [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html),
+  by Fred Hebert
+
 * See also: [Consensus](#consensus), [Peer-to-Peer Networks](#peer-to-peer-networks)
 
 
