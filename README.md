@@ -47,7 +47,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [History (Cypherpunk)](#history-cypherpunk)
 * [History (Open Source)](#history-open-source)
 * [Identity](#identity)
-* [Magnet URI](#magnet-uri)
 * [Money](#money)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
@@ -104,9 +103,11 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Content Addressing
 
+* [Magnet URI Project](http://magnet-uri.sourceforge.net/)
+
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
-* See also: [Distributed Hash Tables](#distributed-hash-tables), [Magnet URI](#magnet-uri)
+* See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
 ## Cryptography
@@ -287,11 +288,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Identity Management: A Primer](https://www.goodreads.com/book/show/7273193-identity-management),
   by Graham Williamson, David Yip, Ilan Sharoni, Kent Spaulding
-
-
-## Magnet URI
-
-* [Magnet URI Project](http://magnet-uri.sourceforge.net/)
 
 
 ## Money
