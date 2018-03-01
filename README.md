@@ -107,6 +107,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
+* [BIP 122](https://github.com/bitcoin/bips/blob/master/bip-0122.mediawiki)
+
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
