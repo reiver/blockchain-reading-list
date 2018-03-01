@@ -280,7 +280,7 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Graham Williamson, David Yip, Ilan Sharoni, Kent Spaulding
 
 
-# Magnet URI
+## Magnet URI
 
 * [Magnet URI Project](http://magnet-uri.sourceforge.net/)
 
