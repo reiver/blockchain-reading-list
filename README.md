@@ -67,6 +67,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Please, not another bias! An evolutionary take on behavioural economics](https://jasoncollins.blog/2015/07/30/please-not-another-bias-an-evolutionary-take-on-behavioural-economics/),
   by Jason Collins
 
+* [The Hidden Agenda of the Political Mind](https://www.goodreads.com/book/show/21981657-the-hidden-agenda-of-the-political-mind),
+  by Jason Weeden, Robert Kurzban
+
+* [Hierarchy in the Forest](https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest),
+  by Christopher Boehm
+
 * See also: [Handicap Principle](#handicap-principle)
 
 
