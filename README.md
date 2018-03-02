@@ -129,7 +129,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
-# Cryptocurrency
+## Cryptocurrency
 
 * See also: [BitCoin](#bitcoin), [Ethereum](#ethereum)
 
