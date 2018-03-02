@@ -36,6 +36,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [B-Money](#b-money)
 * [Consensus](#consensus)
 * [Content Addressing](#content-addressing)
+* [Cryptocurrency](#cryptocurrency)
 * [Cryptography](#cryptography)
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
@@ -126,6 +127,11 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [HTTP Extensions for a Content-Addressable Web](http://lists.w3.org/Archives/Public/www-talk/2001NovDec/0090.html)
 
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
+
+
+# Cryptocurrency
+
+* See also: [BitCoin](#bitcoin), [Ethereum](#ethereum)
 
 
 ## Cryptography
