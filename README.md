@@ -318,6 +318,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Paxos
 
+* [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/),
+  by Harry Brundage
+
 * [The Paxos Algorithm](The Paxos Algorithm),
   by Luis Quesada Torres
 
