@@ -352,6 +352,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf),
   by Diego Ongaro, John Ousterhout
 
+* [Tangaroa: a Byzantine Fault Tolerant Raft](http://www.scs.stanford.edu/14au-cs244b/labs/projects/copeland_zhong.pdf),
+  by Christopher Copeland, Hongxia Zhong
+
 
 ## Rai
 
