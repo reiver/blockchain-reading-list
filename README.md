@@ -96,6 +96,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Annotated: "Bitcoin: A Peer-to-Peer Electronic Cash System"](https://genius.com/2698706),
   by Satoshi Nakamoto, Balaji Srinivasan, Et al.
 
+* [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/),
+  by Michael Nielsen
+
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
   by Andreas M. Antonopoulos
 
