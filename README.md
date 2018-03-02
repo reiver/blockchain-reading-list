@@ -171,6 +171,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [End to End Encryption (E2EE) (Computerphile)](https://youtu.be/jkV1KEJGKRA),
   by Mike Pound
 
+* [Secret Key Exchange (Diffie-Hellman) (Computerphile)](https://youtu.be/NmM9HA2MQGI),
+  by Mike Pound
+
 * See also: [Onion Routing](#onion-routing), [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
