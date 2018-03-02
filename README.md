@@ -248,6 +248,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Error Detection and Flipping the Bits (Computerphile)](https://youtu.be/-15nx57tbfc),
   by David Brailsford
 
+* [Error Correction (Computerphile)](https://youtu.be/5sskbSvha9M),
+  by David Brailsford
+
 * [The Perfect Code (Computerphile)](https://youtu.be/WPoQfKQlOjg),
   by David Brailsford
 
