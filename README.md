@@ -313,6 +313,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Shelling Out: The Origins of Money](http://nakamotoinstitute.org/shelling-out/),
   by Nick Szabo
 
+* [The Ascent of Money: A Financial History of The World (Documentary)](https://youtu.be/fsrtB5lp60s),
+  by Niall Ferguson
+
 * See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
 
 
