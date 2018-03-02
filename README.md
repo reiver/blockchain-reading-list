@@ -248,6 +248,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [The Perfect Code (Computerphile)](https://youtu.be/WPoQfKQlOjg),
   by David Brailsford
 
+* [EXTRA BITS: More on Perfect Codes (Computerphile)](https://youtu.be/i4zC67Yf5Iw),
+  by David Brailsford
+
 
 ## Ethereum
 
