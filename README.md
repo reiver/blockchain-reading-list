@@ -245,10 +245,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Error Detection and Correction
 
-* [Error Detection and Flipping the Bits (Computerphile)](https://youtu.be/-15nx57tbfc),
+* [Information Theory & Coding (Computerphile)](https://www.youtube.com/playlist?list=PLzH6n4zXuckpKAj1_88VS-8Z6yn9zX_P6),
   by David Brailsford
 
-* [Error Correction (Computerphile)](https://youtu.be/5sskbSvha9M),
+* [Multiple Dimension Error Correction (Computerphile)](https://youtu.be/1_X-7BgHbE0),
   by David Brailsford
 
 * [The Perfect Code (Computerphile)](https://youtu.be/WPoQfKQlOjg),
