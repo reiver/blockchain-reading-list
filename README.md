@@ -50,6 +50,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [History (Open Source)](#history-open-source)
 * [Identity](#identity)
 * [Money](#money)
+* [Onion Routing](#onion-routing)
 * [Paxos](#paxos)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
@@ -63,7 +64,6 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Sybil Attack](#sybil-attack)
 * [Tamper Detection](#tamper-detection)
 * [Trust Networks](#trust-networks)
-* [Tor](#tor)
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
@@ -168,7 +168,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Cryptographic Hash VS MAC: What You Need To Know](http://doctrina.org/Cryptographic-Hash-Vs-MAC:What-You-Need-To-Know.html),
   by Barry Steyn
 
-* See also: [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+* See also: [Onion Routing](#onion-routing), [Randomness](#randomness), [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
 ## Distributed Computing
@@ -331,6 +331,12 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Niall Ferguson
 
 * See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
+
+
+## Onion Routing
+
+* [Onion Routing (Computerphile)](https://youtu.be/QRYzre4bf7I),
+  by Mike Pound
 
 
 ## Paxos
