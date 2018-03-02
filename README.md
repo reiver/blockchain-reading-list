@@ -338,6 +338,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Onion Routing (Computerphile)](https://youtu.be/QRYzre4bf7I),
   by Mike Pound
 
+* [EXTRA BITS: Onion Routing (Computerphile)](https://youtu.be/6eWkdyRNfqY),
+  by Mike Pound
+
 * [Tor: The Second-Generation Onion Router](https://www.usenix.org/conference/13th-usenix-security-symposium/tor-second-generation-onion-router),
   by Roger Dingledine, Nick Mathewson, Paul Syverson
 
