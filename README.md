@@ -30,6 +30,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 
 ## Topics
+* [Abstract Algebra](#abstract-algebra)
 * [Behavioral Science](#behavioral-science)
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
@@ -62,7 +63,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Sybil Attack](#sybil-attack)
 * [Tamper Detection](#tamper-detection)
 * [Trust Networks](#trust-networks)
+* [Tor](#tor)
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
+
+
+## Abstract Algebra
+
+* [Abstract Algebra (Socratica)](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6),
+  by Liliana de Castro, Michael Harrison, Hatch Harrison
 
 
 ## Behavioral Science
