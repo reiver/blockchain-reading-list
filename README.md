@@ -139,7 +139,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Cryptocurrency
 
-* See also: [BitCoin](#bitcoin), [Ethereum](#ethereum)
+* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum),
 
 
 ## Cryptography
