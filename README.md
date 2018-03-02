@@ -242,7 +242,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Error Detection and Correction
 
-* [The Perfect Code - Computerphile](https://youtu.be/WPoQfKQlOjg),
+* [The Perfect Code (Computerphile)](https://youtu.be/WPoQfKQlOjg),
   by David Brailsford
 
 
