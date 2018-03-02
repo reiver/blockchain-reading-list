@@ -321,7 +321,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Neat Algorithms - Paxos](http://harry.me/blog/2014/12/27/neat-algorithms-paxos/),
   by Harry Brundage
 
-* [The Paxos Algorithm](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf),
+* [The Paxos Algorithm](https://youtu.be/d7nAGI_NZPk),
   by Luis Quesada Torres
 
 * [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf),
