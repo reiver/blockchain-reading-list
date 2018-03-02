@@ -369,6 +369,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Tor: The Second-Generation Onion Router](https://www.usenix.org/conference/13th-usenix-security-symposium/tor-second-generation-onion-router),
   by Roger Dingledine, Nick Mathewson, Paul Syverson
 
+* [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://people.csail.mit.edu/devadas/pubs/circuit_finger.pdf),
+  by Albert Kwon, Mashael AlSabah, David Lazar, Marc Dacier, Srinivas Devadas
+
 
 ## Paxos
 
