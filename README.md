@@ -42,6 +42,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Distributed Computing](#distributed-computing)
 * [Distributed Hash Tables](#distributed-hash-tables)
 * [eCash](#ecash)
+* [Error Detection and Correction](#error-detection-and-correction)
 * [Ethereum](#ethereum)
 * [Handicap Principle](#handicap-principle)
 * [Hashcash](#hashcash)
@@ -237,6 +238,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [eCash Bitcoin wiki](https://en.bitcoinwiki.org/wiki/Ecash)
 
 * [An introduction to ecash](https://web.archive.org/web/19971009044558/http://digicash.com/publish/ecash_intro/ecash_intro.html)
+
+
+## Error Detection and Correction
+
+* [The Perfect Code - Computerphile](https://youtu.be/WPoQfKQlOjg),
+  by David Brailsford
 
 
 ## Ethereum
