@@ -48,6 +48,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [History (Open Source)](#history-open-source)
 * [Identity](#identity)
 * [Money](#money)
+* [Paxos](#paxos)
 * [Peer-to-Peer Networks](#peer-to-peer-networks)
 * [Privacy](#privacy)
 * [Proof-of-Stake](#proof-of-stake)
@@ -108,7 +109,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Consensus
 
-* See also: [BitCoin](#bitcoin), [Raft](#raft)
+* See also: [BitCoin](#bitcoin), [Paxos](#paxos), [Raft](#raft)
 
 
 ## Content Addressing
@@ -313,6 +314,15 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Nick Szabo
 
 * See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
+
+
+## Paxos
+
+* [The Paxos Algorithm](The Paxos Algorithm),
+  by Luis Quesada Torres
+
+* [The Part-Time Parliament](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/The-Part-Time-Parliament.pdf),
+  by Leslie Lamport
 
 
 ## Peer-to-Peer Networks
