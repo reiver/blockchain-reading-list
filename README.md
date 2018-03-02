@@ -402,6 +402,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Proof-of-Stake
 
+* [On Stake and Consensus](https://download.wpsoftware.net/bitcoin/pos.pdf),
+  by Andrew Poelstra
+
 * [Cryptocurrencies without Proof of Work](https://arxiv.org/abs/1406.5694),
   by Iddo Bentov, Ariel Gabizon, Alex Mizrahi
 
