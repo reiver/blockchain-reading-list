@@ -133,6 +133,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [MAGNET v0.1 (Draft Tech Overview/Spec)](http://magnet-uri.sourceforge.net/magnet-draft-overview.txt),
   by Gordon Mohr
 
+* [Magnet URI scheme (Wikipedia)](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
+
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
 * [Trusty URIs: Verifiable, Immutable, and Permanent Digital Artifacts for Linked Data](https://arxiv.org/abs/1401.5775),
