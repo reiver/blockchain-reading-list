@@ -65,6 +65,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Sybil Attack](#sybil-attack)
 * [Tamper Detection](#tamper-detection)
 * [Trust Networks](#trust-networks)
+* [Worse Is Better](#worse-is-better)
 * [Zero-Knowledge Proof Protocol](#zero-knowledge-proof-protocol)
 
 
@@ -495,6 +496,21 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Scott Aaronson
 
 * See also: [Sybil Attack](#sybil-attack)
+
+
+## Worse Is Better
+
+* [The Rise of “Worse is Better”](https://www.jwz.org/doc/worse-is-better.html),
+  by Richard P. Gabriel
+
+* [Worse Is Better](http://dreamsongs.com/WorseIsBetter.html),
+  by Richard P. Gabriel
+
+* [“RethinkDB: why we failed” (Worse Is Better: RethinkDB vs MongoDB)](http://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html),
+  by Slava Akhmechet
+
+* [Lisp: Good News, Bad News, How to Win Big](http://dreamsongs.com/WIB.html),
+  by Richard P. Gabriel
 
 
 ## Zero-Knowledge Proof Protocol
