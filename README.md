@@ -517,6 +517,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Lisp: Good News, Bad News, How to Win Big](http://dreamsongs.com/WIB.html),
   by Richard P. Gabriel
 
+* [Worse Is Better (WikiWikiWeb)](http://wiki.c2.com/?WorseIsBetter)
+
 
 ## Zero-Knowledge Proof Protocol
 
