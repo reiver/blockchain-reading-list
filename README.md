@@ -128,7 +128,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Content Addressing
 
-* [Magnet URI Project](http://magnet-uri.sourceforge.net/) <sup>[archive](https://web.archive.org/web/20171215133440/http://magnet-uri.sourceforge.net/)</sup>
+* [Magnet URI Project](http://magnet-uri.sourceforge.net/)
+
+* [MAGNET v0.1 (Draft Tech Overview/Spec)](http://magnet-uri.sourceforge.net/magnet-draft-overview.txt),
+  by Gordon Mohr
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
