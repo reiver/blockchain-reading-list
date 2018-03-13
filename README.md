@@ -277,6 +277,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Ethereum Beige Paper: Rewrite of the Yellowpaper in non-Yellowpaper syntax](https://github.com/chronaeon/beigepaper/),
   by Micah Dameron
 
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
+  by Andreas M. Antonopoulos, Gavin Wood
+
 
 ## Handicap Principle
 
