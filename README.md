@@ -86,6 +86,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Hierarchy in the Forest](https://www.goodreads.com/book/show/2131522.Hierarchy_in_the_Forest),
   by Christopher Boehm
 
+* [The Biology of Moral Systems](https://www.goodreads.com/book/show/1446851.The_Biology_of_Moral_Systems),
+  by Richard D. Alexander
+
 * See also: [Handicap Principle](#handicap-principle)
 
 
