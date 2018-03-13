@@ -103,6 +103,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/),
   by Michael Nielsen
 
+* [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://youtu.be/bBC-nXj3Ng4),
+  by Grant Sanderson
+
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook),
   by Andreas M. Antonopoulos
 
