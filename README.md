@@ -488,6 +488,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [What's Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 
+* [Solidity Bytecode and Opcode Basics](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2), by Bernard Peh
+
 
 ## Sybil Attack
 
