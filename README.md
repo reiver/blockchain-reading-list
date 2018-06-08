@@ -62,6 +62,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Randomness](#randomness)
 * [Selfish Mining Attack](#selfish-mining-attack)
 * [Smart Contracts](#smart-contracts)
+* [Solidity](#solidity)
 * [Sybil Attack](#sybil-attack)
 * [Tamper Detection](#tamper-detection)
 * [Trust Networks](#trust-networks)
@@ -286,6 +287,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook),
   by Andreas M. Antonopoulos, Gavin Wood
 
+* See also: [Solidity](#solidity)
+
 
 ## Handicap Principle
 
@@ -478,7 +481,12 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html),
   by Nick Szabo
 
-* See also: [B-Money](#b-money)
+* See also: [B-Money](#b-money), [Solidity](#solidity)
+
+
+## Solidity
+
+* [What's Solidity](https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 
 
 ## Sybil Attack
