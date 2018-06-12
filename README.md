@@ -35,6 +35,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [BitCoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [B-Money](#b-money)
+* [Colored Coins](#colored-coins)
 * [Consensus](#consensus)
 * [Content Addressing](#content-addressing)
 * [Cryptocurrency](#cryptocurrency)
@@ -135,6 +136,11 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Wei Dai
 
 * [B-money - Bitcoin Wiki](https://en.bitcoin.it/wiki/B-money)
+
+
+## Colored Coins
+
+* [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)
 
 
 ## Consensus
