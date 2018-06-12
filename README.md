@@ -371,6 +371,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Mastercoin: A Second-Generation Protocol on the Bitcoin Blockchain](https://bitcoinmagazine.com/articles/mastercoin-a-second-generation-protocol-on-the-bitcoin-blockchain-1383603310/),
   by Vitalik Buterin
 
+* [MasterCoin Complete Specification Version 1.0](https://www.scribd.com/document/157454619/MasterCoin-Specification),
+  by J.R. Willett
+
 
 ## Money
 
