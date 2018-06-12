@@ -117,6 +117,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [OP_RETURN and the Future of Bitcoin](https://bitzuma.com/posts/op-return-and-the-future-of-bitcoin/),
   by Rich Apodaca
 
+* [Explanation of what an OP_RETURN transaction looks like](https://bitcoin.stackexchange.com/questions/29554/explanation-of-what-an-op-return-transaction-looks-like)
+
 
 ## Bit Gold
 
