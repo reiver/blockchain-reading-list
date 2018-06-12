@@ -119,6 +119,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Explanation of what an OP_RETURN transaction looks like](https://bitcoin.stackexchange.com/questions/29554/explanation-of-what-an-op-return-transaction-looks-like)
 
+* [Hidden surprises in the Bitcoin blockchain and how they are stored: Nelson Mandela, Wikileaks, photos, and Python software](http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html),
+  by Ken Shirriff
+
 
 ## Bit Gold
 
