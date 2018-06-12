@@ -140,7 +140,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Colored Coins
 
-* [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)
+* [Colored Coins - Bitcoin Wiki](https://en.bitcoin.it/wiki/Colored_Coins)
+
+* [Colored Coins - Wikipedia](https://en.wikipedia.org/wiki/Colored_coin)
 
 * [Coloring Scheme](https://github.com/Colored-Coins/Colored-Coins-Protocol-Specification/wiki/Coloring%20Scheme)
 
