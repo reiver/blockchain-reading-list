@@ -114,6 +114,9 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Why Is It Taking 20 Minutes to Mine This Bitcoin Block?](http://r6.ca/blog/20180225T160548Z.html),
   by Russell O’Connor
 
+* [OP_RETURN and the Future of Bitcoin](https://bitzuma.com/posts/op-return-and-the-future-of-bitcoin/),
+  by Rich Apodaca
+
 
 ## Bit Gold
 
