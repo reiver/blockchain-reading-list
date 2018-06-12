@@ -142,6 +142,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Colored Coins](https://en.bitcoin.it/wiki/Colored_Coins)
 
+* [Coloring Scheme](https://github.com/Colored-Coins/Colored-Coins-Protocol-Specification/wiki/Coloring%20Scheme)
+
 
 ## Consensus
 
