@@ -420,6 +420,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://people.csail.mit.edu/devadas/pubs/circuit_finger.pdf),
   by Albert Kwon, Mashael AlSabah, David Lazar, Marc Dacier, Srinivas Devadas
 
+* [Garlic Routing](https://geti2p.net/en/docs/how/garlic-routing)
+
 
 ## Paxos
 
