@@ -7,7 +7,7 @@ This is a list of readings (and watchings) on **blockchain** related topics.
 
 The word _"blockchain"_ (or _"block chain"_) started off as a more or less narrowly defined technical term.
 
-It (_"blockchain"_) later became a buzzword that represented anything related to BitCoin, alt-coins (ex: LiteCoin, Ethereum, etc), cryptocurrencies, etc.
+It (_"blockchain"_) later became a buzzword that represented anything related to Bitcoin, alt-coins (ex: Litecoin, Ethereum, etc), cryptocurrencies, etc.
 
 And now that the word _"blockchain"_ is on the verge of becoming a _household name_,
 it seems like it is starting to include what some others are calling _"distributed computing"_.
@@ -32,7 +32,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 ## Topics
 * [Abstract Algebra](#abstract-algebra)
 * [Behavioral Science](#behavioral-science)
-* [BitCoin](#bitcoin)
+* [Bitcoin](#bitcoin)
 * [Bit Gold](#bit-gold)
 * [B-Money](#b-money)
 * [Colored Coins](#colored-coins)
@@ -95,7 +95,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * See also: [Handicap Principle](#handicap-principle)
 
 
-## BitCoin
+## Bitcoin
 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf),
   by Satoshi Nakamoto
@@ -149,7 +149,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Consensus
 
-* See also: [BitCoin](#bitcoin), [Paxos](#paxos), [Raft](#raft)
+* See also: [Bitcoin](#bitcoin), [Paxos](#paxos), [Raft](#raft)
 
 
 ## Content Addressing
@@ -177,7 +177,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Cryptocurrency
 
-* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum),
+* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum),
 
 
 ## Cryptography
@@ -391,7 +391,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Mastercoin: A Second-Generation Protocol on the Bitcoin Blockchain](https://bitcoinmagazine.com/articles/mastercoin-a-second-generation-protocol-on-the-bitcoin-blockchain-1383603310/),
   by Vitalik Buterin
 
-* [MasterCoin Complete Specification Version 1.0](https://www.scribd.com/document/157454619/MasterCoin-Specification),
+* [Mastercoin Complete Specification Version 1.0](https://www.scribd.com/document/157454619/MasterCoin-Specification),
   by J.R. Willett
 
 
@@ -403,7 +403,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [The Ascent of Money: A Financial History of The World (Documentary)](https://youtu.be/fsrtB5lp60s),
   by Niall Ferguson
 
-* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
+* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [B-Money](#b-money), [eCash](#ecash), [Ethereum](#ethereum), [Rai](#rai)
 
 
 ## Onion Routing
@@ -440,7 +440,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Understanding Churn in Peer-to-Peer Networks](http://www.barsoom.org/papers/imc-2006-churn.pdf),
   by Daniel Stutzbach, Reza Rejaie
 
-* See also: [BitCoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
+* See also: [Bitcoin](#bitcoin), [Bit Gold](#bit-gold), [Distributed Hash Tables](#distributed-hash-tables)
 
 
 ## Privacy
