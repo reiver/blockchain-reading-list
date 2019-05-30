@@ -160,9 +160,9 @@ This document is targeted at technical people, who are looking to gain a deep un
   by Gordon Mohr
 
 * [Magnet URI scheme (Wikipedia)](https://en.wikipedia.org/wiki/Magnet_URI_scheme),
-  by Peter Thiemann
 
 * [A URN Namespace For Identifiers Based on Cryptographic Hashes](https://tools.ietf.org/html/draft-thiemann-hash-urn-01)
+  by Peter Thiemann
 
 * [IETF RFC 6920: Naming Things with Hashes](https://tools.ietf.org/search/rfc6920)
 
