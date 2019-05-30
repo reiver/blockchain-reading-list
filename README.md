@@ -18,7 +18,7 @@ This seems to somewhat mirror how previously the usage of the word _"P2P"_ seeme
 
 (Although this time around, cryptography and various concepts of "money" seems to have prominence.)
 
-Regardless, this document focuses on a more traditional definite of _"blockchain"_.
+Regardless, this document focuses on a more traditional definition of _"blockchain"_.
 
 But also includes some topics that the author of this document feels that, while not strictly about blockchains,
 will help provide readers with a deep(er) technical background that can be useful when working with or creating blockchain based technologies.
