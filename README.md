@@ -10,7 +10,7 @@ The word _"blockchain"_ (or _"block chain"_) started off as a more or less narro
 It (_"blockchain"_) later became a buzzword that represented anything related to BitCoin, alt-coins (ex: LiteCoin, Ethereum, etc), cryptocurrencies, etc.
 
 And now that the word _"blockchain"_ is on the verge of becoming a _household name_,
-it seems like it is starting to include what some others are calling _"distributed computing"_.
+it seems like it is starting to include what some others used to call _"P2P"_, and are now calling _"distributed computing"_.
 
 (In some usages of the label _"blockchain"_, neither _blocks_ or _hash lists_ seemed to be necessary for that thing to be called a _"blockchain"_.)
 
