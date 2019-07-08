@@ -173,6 +173,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [HTTP Extensions for a Content-Addressable Web](http://lists.w3.org/Archives/Public/www-talk/2001NovDec/0090.html)
 
+* [IETF RFC 2397: The "data" URL scheme](https://tools.ietf.org/html/rfc2397)
+
 * [Hash URI Specification](https://github.com/hash-uri/hash-uri)
 
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
