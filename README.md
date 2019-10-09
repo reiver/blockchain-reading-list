@@ -527,6 +527,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Solidity Bytecode and Opcode Basics](https://medium.com/@blockchain101/solidity-bytecode-and-opcode-basics-672e9b1a88c2), by Bernard Peh
 
+* [CryptoZombies](https://cryptozombies.io/)
+
 
 ## Sybil Attack
 
