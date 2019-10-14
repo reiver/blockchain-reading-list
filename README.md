@@ -594,3 +594,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf),
   by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, Greg Maxwell
+
+***
+
+**Blockchain Reading List** created, and maintained by [Charles Iliya Krempeaux](http://changelog.ca/).
+
+Canonical URL: https://github.com/reiver/blockchain-reading-list
+
