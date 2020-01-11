@@ -185,6 +185,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [HTTP Digest](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Digest)
 
 * [Cache Digests for HTTP/2](https://httpwg.org/http-extensions/cache-digest.html)
+  * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
