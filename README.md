@@ -180,6 +180,10 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [Hash URI Specification](https://github.com/hash-uri/hash-uri)
 
+* [HTTP Want-Digest](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Want-Digest)
+
+* [HTTP Digest](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Digest)
+
 * See also: [Distributed Hash Tables](#distributed-hash-tables)
 
 
