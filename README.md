@@ -1,4 +1,7 @@
-# Blockchain Reading List
+<hgroup>
+<h1>Blockchain Reading List</h1>
+<p>by <a href="http://reiver.link/">Charles Iliya Krempeaux</a></p>
+</hgroup>
 
 This is a list of readings (and watchings) on **blockchain** related topics.
 
