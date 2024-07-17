@@ -539,6 +539,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 * [CryptoZombies](https://cryptozombies.io/)
 
+* [Solidity by Example](https://solidity-by-example.org/)
+
 
 ## Sybil Attack
 
