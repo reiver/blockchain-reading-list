@@ -508,7 +508,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ## Randomness
 
-* [Uniform Non-Random Random Numbers](http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers),
+* [Uniform Non-Random Random Numbers]([http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers](https://web.archive.org/web/20120107125139/http://changelog.ca/quote/2011/10/29/uniform_non-random_random_numbers)),
   by Timothy Masters
 
 * [TIFU by using Math.random()](https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d),
