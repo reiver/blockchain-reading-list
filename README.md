@@ -609,7 +609,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 
 ***
 
-**Blockchain Reading List** created, and maintained by [Charles Iliya Krempeaux](http://changelog.ca/).
+**Blockchain Reading List** created, and maintained by [Charles Iliya Krempeaux](http://reiver.link/).
 
 Canonical URL: https://github.com/reiver/blockchain-reading-list
 
