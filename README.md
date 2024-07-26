@@ -517,6 +517,8 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [The Lava Lamps That Help Keep The Internet Secure](https://youtu.be/1cUUfMeOijg),
   by Tom Scott
 
+* [How can I securely generate a random number in my smart contract?](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
+
 
 ## Selfish Mining Attack
 
