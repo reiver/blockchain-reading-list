@@ -578,7 +578,7 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Eigenmorality](https://www.scottaaronson.com/blog/?p=1820),
   by Scott Aaronson
 
-* [Kuroshin User Sponsorship and Managed Growth](https://web.archive.org/web/20041101000000*/http://www.kuro5hin.org/story/2004/3/24/0502/96199),
+* [Kuro5hin User Sponsorship and Managed Growth](https://web.archive.org/web/20041101000000*/http://www.kuro5hin.org/story/2004/3/24/0502/96199),
   by "Rusty" Lawrence Calvin Foster
 
 * See also: [Sybil Attack](#sybil-attack)
