@@ -572,8 +572,14 @@ This document is targeted at technical people, who are looking to gain a deep un
 * [Advogato Has Failed](https://web.archive.org/web/20170628190710/http://www.advogato.org/article/928.html),
   by Bryan Taylor
 
+* [Lessons from Advogato](https://youtu.be/9KgqtU25dBI),
+  by Raph Levien
+
 * [Eigenmorality](https://www.scottaaronson.com/blog/?p=1820),
   by Scott Aaronson
+
+* [Kuroshin User Sponsorship and Managed Growth](https://web.archive.org/web/20041101000000*/http://www.kuro5hin.org/story/2004/3/24/0502/96199),
+  by "Rusty" Lawrence Calvin Foster
 
 * See also: [Sybil Attack](#sybil-attack)
 
